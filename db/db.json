@@ -1,7 +1,17 @@
 [
   {
-    "id": "0",
-    "title": "Test Title",
-    "text": "Test text"
+    "title": "NOTE 1",
+    "text": "This is a test",
+    "id": "c32eaa09-614f-48fd-a082-cc7ec77e041d"
+  },
+  {
+    "title": "This too is a test",
+    "text": "yup",
+    "id": "dd5f3181-4435-4734-ac46-7ba27e04f7b7"
+  },
+  {
+    "title": "note 3",
+    "text": "3 note",
+    "id": "a53e19a7-3498-4296-abe7-3803c0dcb614"
   }
 ]
