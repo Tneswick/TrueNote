@@ -14,7 +14,11 @@ router.post('/notes', (req, res) => {
 })
 
 router.delete('/notes/:id', (req, res) => {
-    const noteId = req.body.id
+    // console.log(req.params.id);
+    const noteId = req.params.id;
+    // console.log(noteId);
+    // console.log(req.body);
+    // console.log(req.body.id);
 
     deleteNote(noteId)
     res.send('Delete Request Received')
