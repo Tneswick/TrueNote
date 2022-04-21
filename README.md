@@ -9,6 +9,9 @@
 3. Click the "Plus" icon in the top right of the page to add a note
 4. When you finish your note, click the now available "Save" icon to save it to the database
 
+## 🔗 Deployed Application
+[TrueNote](https://true-note.herokuapp.com/)
+
 ## 🔨 Built With
 - HTML
 - CSS
